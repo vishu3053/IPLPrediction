@@ -1,3 +1,3 @@
 # IPLPrediction
  
-- #Live: https://predictipl.streamlit.app/
+ Live: https://predictipl.streamlit.app/
