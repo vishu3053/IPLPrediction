@@ -89,7 +89,7 @@ cities = ['Bangalore', 'Delhi', 'Mumbai', 'Hyderabad', 'Jaipur', 'Chennai',
 @st.cache_resource
 def load_model():
     try:
-        model_path = 'pipe.pkl'
+        model_path = 'F:\PYTHON_SIKH_RHA_HU\IPL_Predictor\pipe.pkl'
         if not os.path.exists(model_path):
             st.error(f"Error: '{model_path}' not found. Please check the file path.")
             return None
